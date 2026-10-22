@@ -1,0 +1,6 @@
+{
+  "name": "혹한의 아포칼립스 2026: 생존자 보관소",
+  "description": "끝없는 눈보라와 극한의 추위 속 생존자들의 무전 신호와 물품으로 탐색하는 혹한 아포칼립스 세계관 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
